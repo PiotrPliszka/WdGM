@@ -1,0 +1,21 @@
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+coverage/
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Pliki generowane przez skrypty
+t1.txt
